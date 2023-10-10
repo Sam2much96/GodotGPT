@@ -1,0 +1,13 @@
+2a60927148abd1d33b818b535e306557
+::res://::1696906512
+default_env.tres::Environment::-1::1696906469::0::1::::<><>::
+icon.png::CompressedTexture2D::4085986540514184157::1696905860::1696906574::1::::<><>::
+README.md::TextFile::-1::1696906230::0::1::::<><>::
+::res://addons/::1696906230
+::res://addons/GodotGPT/::1696906230
+ChatGPTAPI.gd::GDScript::-1::1696906470::0::1::::ChatGPTAPI<>HTTPRequest<>::
+ChatGPTAPI.tscn::PackedScene::3411912553870653694::1696906470::0::1::::<><>::res://ChatGPTAPI.gd
+GodotGPT.gd::GDScript::-1::1696906470::0::1::::<>EditorPlugin<>::
+Llama2API.gd::GDScript::-1::1696906470::0::1::::Llama2API<>Node<>::
+Llama2API.tscn::PackedScene::-1::1696906470::0::1::::<><>::res://addons/GodotGPT/Llama2API.gd
+plugin.cfg::TextFile::-1::1696906230::0::1::::<><>::
